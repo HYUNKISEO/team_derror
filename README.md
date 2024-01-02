@@ -29,9 +29,13 @@ https://github.com/HYUNKISEO/team_derror
 
 # 진행 및 교육과정
 ─────────────────────────
+
 코리아IT아카데미 http://gangnam.koreaisacademy.com/
+
 ●과정명:  웹개발
+
 ●교육기간 : 2023.09.07 ~ 2023.03.21 (총 963시간)
+
 ●교육내용 
 
 JAVA 프로그래밍 (120시간)
